@@ -2,6 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+[RequireComponent(typeof(PlayerMovement))]
+[RequireComponent (typeof(MouseLook))]
 public class InputManager : MonoBehaviour
 {
     private PlayerMovement playerMovement;

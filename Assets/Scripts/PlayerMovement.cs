@@ -57,11 +57,11 @@ public class PlayerMovement : MonoBehaviour
     public void GetInput(Vector2 horInput)
     {
         horizontalInput = horInput;
-        Debug.Log(horizontalInput);
     }
 
     public void OnJumpPressed()
     {
         isJump = true;
     }
+
 }

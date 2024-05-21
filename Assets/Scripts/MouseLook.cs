@@ -8,6 +8,7 @@ public class MouseLook : MonoBehaviour
     [SerializeField] float sensivityX = 10f;
     [SerializeField] float sensivityY = 0.5f;
 
+    
     private float mouseX;
     private float mouseY;
     private float xClamp = 10f;
