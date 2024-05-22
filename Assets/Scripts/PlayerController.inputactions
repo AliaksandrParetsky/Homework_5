@@ -133,8 +133,30 @@
                 },
                 {
                     "name": "",
+                    "id": "d5b3a888-a36d-4236-b501-dd9214f6cd73",
+                    "path": "<Gamepad>/rightStick/x",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "MouseX",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
                     "id": "4207518c-15dc-47cd-91b1-1aa9e86fe3c5",
                     "path": "<Mouse>/delta/y",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "MouseY",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "fabcbdcf-266e-4647-b608-d88a041db965",
+                    "path": "<Gamepad>/rightStick/y",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
